@@ -1,7 +1,7 @@
 // Const
 const row = 600
 const coll = 600
-const squareSize = 5
+const squareSize = 4
 
 // data
 var data = []
